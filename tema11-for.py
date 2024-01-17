@@ -8,3 +8,4 @@ nombre = {"mario","pedro","juan","dario"}
 
 for nom in nombre:
     print(nom)
+    
